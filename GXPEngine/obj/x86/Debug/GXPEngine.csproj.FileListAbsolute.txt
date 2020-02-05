@@ -32,3 +32,9 @@ C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\ECM1V.Ec_Jansen_Leo\My full pr
 C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\ECM1V.Ec_Jansen_Leo\My full project folder, including any assets or dependencies, whih allows you to compile and run my game\GXPEngine\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
 C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\ECM1V.Ec_Jansen_Leo\My full project folder, including any assets or dependencies, whih allows you to compile and run my game\GXPEngine\obj\x86\Debug\GXPEngine.exe
 C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\ECM1V.Ec_Jansen_Leo\My full project folder, including any assets or dependencies, whih allows you to compile and run my game\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\obj\x86\Debug\GXPEngine.csprojAssemblyReference.cache
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\obj\x86\Debug\GXPEngine.exe
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\bin\Debug\GXPEngine.exe
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\bin\Debug\GXPEngine.pdb

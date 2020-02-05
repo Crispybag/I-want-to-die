@@ -6,15 +6,11 @@ using GXPEngine;
 
 public class MyGame : Game
 {
-   //hello
-   
 
-    public MyGame() : base(920, 540, false)
+    public MyGame() : base(1920, 1080, false)
     {
         LevelLoader levelLoader = new LevelLoader();
         AddChild(levelLoader);
-        //hi
-
     }
 
     static void Main()
