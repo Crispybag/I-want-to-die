@@ -11,6 +11,7 @@ class Player : Sprite
         x = newX;
         y = newY;
 
+
         SetOrigin(width / 2, height / 2);
     }
 
@@ -25,13 +26,15 @@ class Player : Sprite
     }
 
 
-    float mouseAngle;
+    public float mouseAngle;
 
     void getMouseAngle()
     {
-        if (mouseX - x >= 0)
+        if (mouseX - x == 0 && mouseY - y == 0) mouseAngle = Mathf.PI;
+
+        else if (mouseX - x >= 0)
         {
-            mouseAngle =  (180 / Mathf.PI) * Mathf.Acos((-mouseY + y) / Mathf.Sqrt(Mathf.Pow(mouseX - x, 2) + Mathf.Pow(mouseY - y, 2)));
+            mouseAngle = (180 / Mathf.PI) * Mathf.Acos((-mouseY + y) / Mathf.Sqrt(Mathf.Pow(mouseX - x, 2) + Mathf.Pow(mouseY - y, 2)));
         }
 
         else
@@ -39,6 +42,8 @@ class Player : Sprite
             mouseAngle = -(180 / Mathf.PI) * Mathf.Acos((-mouseY + y) / Mathf.Sqrt(Mathf.Pow(mouseX - x, 2) + Mathf.Pow(mouseY - y, 2)));
         }
     }
+
+   
 
     void rotatePlayer()
     {
@@ -50,6 +55,5 @@ class Player : Sprite
     {
         getMousePos();
         rotatePlayer();
-        Console.WriteLine(mouseAngle);
     }
 }

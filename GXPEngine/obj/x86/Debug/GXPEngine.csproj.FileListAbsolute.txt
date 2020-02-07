@@ -38,3 +38,9 @@ C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEn
 C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\obj\x86\Debug\GXPEngine.pdb
 C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\bin\Debug\GXPEngine.exe
 C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Pirate game thingie\hurb\GXPEngine\bin\Debug\GXPEngine.pdb
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Lift Off\hurb\GXPEngine\bin\Debug\GXPEngine.exe
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Lift Off\hurb\GXPEngine\bin\Debug\GXPEngine.pdb
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Lift Off\hurb\GXPEngine\obj\x86\Debug\GXPEngine.csprojAssemblyReference.cache
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Lift Off\hurb\GXPEngine\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Lift Off\hurb\GXPEngine\obj\x86\Debug\GXPEngine.exe
+C:\Users\ljans\OneDrive\Bureaublad\Study\GXPTrash\Lift Off\hurb\GXPEngine\obj\x86\Debug\GXPEngine.pdb

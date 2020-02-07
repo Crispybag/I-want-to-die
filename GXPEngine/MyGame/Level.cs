@@ -9,12 +9,35 @@ class Level : GameObject
 
     public Level()
     {
-        for (int i = 0; i < 50; i++) createPlayer(rnd.Next(0,1920), rnd.Next(0,1080));
+        createPlayer(500, 500);
+        createWall();
     }
 
+    Player player;
     void createPlayer(float newX, float newY)
     {
-        Player player = new Player(newX, newY);
+        player = new Player(newX, newY);
         AddChild(player);
+    }
+
+    void shootBullet()
+    {
+        Bullet playerBullet = new Bullet(player);
+        AddChild(playerBullet);
+    }
+
+    void createWall()
+    {
+        Wall wall = new Wall(50, 700, 0);
+        AddChild(wall);
+        wall = new Wall(50, 50, 90);
+        AddChild(wall);
+        wall = new Wall(50, 50, 23);
+        AddChild(wall);
+    }
+
+    void Update()
+    {
+        if(Input.GetMouseButtonDown(0)) shootBullet();
     }
 }

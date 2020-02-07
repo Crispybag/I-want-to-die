@@ -69,6 +69,8 @@
     <Compile Include="GXPEngine\AddOns\Window.cs" />
     <Compile Include="GXPEngine\AddOns\EasyDraw.cs" />
     <Compile Include="GXPEngine\Core\Collision.cs" />
+    <Compile Include="MyGame\Bullet.cs" />
+    <Compile Include="MyGame\Wall.cs" />
     <Compile Include="MyGame\Player.cs" />
     <Compile Include="MyGame\Level.cs" />
     <Compile Include="MyGame\LevelLoader.cs" />
